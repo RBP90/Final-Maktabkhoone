@@ -1,1 +1,1 @@
-# Final-Maktabkhoone
+This is my final project for Maktabkhoone. I am sharing it as a part of my resume. The project includes web scraping, machine learning, and the use of a MySQL database. The machine learning part is written in two methods
